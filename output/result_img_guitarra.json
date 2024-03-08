@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "06a48ac6-7408-4a6c-b057-26cb596829c7",
+  "comprimento do conteúdo": "145",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "uma guitarra em um case",
+    "confiança": 0,8413655161857605
+  },
+  "metadados": {
+    "largura": 250,
+    "altura": 201
+  }
+}

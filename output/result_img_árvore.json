@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "c52f0568-5b73-45d4-8cd6-94f376b94437",
+  "comprimento do conteúdo": "144",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "texto": "uma árvore em um campo",
+    "confiança": 0,6952888369560242
+  },
+  "metadados": {
+    "largura": 264,
+    "altura": 191
+  }
+}
